@@ -1,2 +1,1 @@
-# viralbo
-viralbo
+# [viralbo](https://viralbo.pages.dev)
